@@ -8,4 +8,4 @@
 <h5>Left Paddle Controls:</h5>
 
 <li>Move Up: Press the "w" key</li>
-<li>Move Down: Press the "s" ke</li>
+<li>Move Down: Press the "s" key</li>
