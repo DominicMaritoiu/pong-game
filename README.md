@@ -24,7 +24,7 @@
 <li>Scoreboard displays the current score for each player.</li>
 
 <h2>Code Structure</h2>
-<li>pong.py: Main script containing the game loop and setup.</li>
+<li>main.py: Main script containing the game loop and setup.</li>
 <li>paddle.py: Module defining the Paddle class.</li>
 <li>ball.py: Module defining the Ball class.</li>
 <li>scoreboard.py: Module defining the Scoreboard class.</li>
