@@ -13,3 +13,12 @@
 
 <li>Move Up: Press the "w" key</li>
 <li>Move Down: Press the "s" key</li>
+
+<h2>Dependencies</h2>
+<li>Python 3.x</li>
+<li>Turtle graphics library</li>
+<h2>Game Features</h2>
+<li>Green background with white paddles and ball.</li>
+<li>Paddles can be moved up and down using arrow keys and "w" / "s" keys.</li>
+<li>The ball increases in speed over time.</li>
+<li>Scoreboard displays the current score for each player.</li>
