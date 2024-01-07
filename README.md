@@ -22,3 +22,12 @@
 <li>Paddles can be moved up and down using arrow keys and "w" / "s" keys.</li>
 <li>The ball increases in speed over time.</li>
 <li>Scoreboard displays the current score for each player.</li>
+
+<h2>Code Structure</h2>
+<li>pong.py: Main script containing the game loop and setup.</li>
+<li>paddle.py: Module defining the Paddle class.</li>
+<li>ball.py: Module defining the Ball class.</li>
+<li>scoreboard.py: Module defining the Scoreboard class.</li>
+
+<h2>Contributions</h2>
+<p>Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and ideas are highly appreciated!</p>
